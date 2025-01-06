@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+}
+#box_1{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 5%;
+	color: white;
+	text-align: center;
+}
+#img{
+	border: 10px solid white;
+}
+img{
+	width: 100%;
+}
